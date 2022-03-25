@@ -1,0 +1,6 @@
+- #  About Me...
+- 👋 Hi, I’m @MajorFriend
+- 👀 I’m interested in Power Platform
+- 🌱 I’m currently learning how to collaborate on GitHub
+- 💞️ I’m looking to collaborate on Power Apps
+- 📫 How to reach me Jordan@PowerPlatypusIT.com
